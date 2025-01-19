@@ -8,7 +8,7 @@ environment:
   sdk: ">=2.18.0 <3.0.0"
 
 dependencies:
-#  flare_flutter: ^3.0.2
+#  flare_flutter: ^3.0.3
   flare_flutter:
     git:
       url: https://github.com/mbfakourii/Flare-Flutter.git
